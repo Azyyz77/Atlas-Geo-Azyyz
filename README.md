@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Atlas Géographique
 
 ## Description
@@ -159,3 +160,6 @@ flutter build web
 
 1.0.0
 
+=======
+# Atlas-Geo-Azyyz
+>>>>>>> 8a70dfae773dfdb436dac13243bf2eea1546926f
